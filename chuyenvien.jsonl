@@ -1,0 +1,1511 @@
+{
+    "jobs_group_1": [
+      {
+        "title": "Nhân Viên Hành Chính - Văn Phòng",
+        "salary": "7 - 10 triệu/tháng",
+        "location": "Quận 1, TP. Hồ Chí Minh",
+        "experience": "Dưới 1 năm hoặc sinh viên mới ra trường",
+        "deadline": "30/04/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Tiếp nhận và xử lý các công văn, giấy tờ đến và đi",
+          "Sắp xếp lịch họp, lịch công tác cho quản lý và các phòng ban liên quan",
+          "Quản lý, lưu trữ hồ sơ, chứng từ của công ty",
+          "Hỗ trợ các công việc hành chính khác khi có yêu cầu"
+        ],
+        "requirements": [
+          "Tốt nghiệp Trung cấp/Cao đẳng/Đại học (ưu tiên chuyên ngành Quản trị Văn phòng, Kinh tế...)",
+          "Kỹ năng tin học văn phòng tốt (Word, Excel, PowerPoint)",
+          "Cẩn thận, trung thực, có tinh thần trách nhiệm cao",
+          "Kỹ năng giao tiếp, sắp xếp công việc khoa học"
+        ],
+        "benefits": [
+          "Lương cứng: 7.000.000 - 10.000.000 VNĐ/tháng (thỏa thuận theo năng lực)",
+          "Thưởng lễ, tết, phụ cấp ăn trưa",
+          "Tham gia BHXH, BHYT, BHTN theo quy định",
+          "Môi trường làm việc thân thiện, năng động"
+        ],
+        "how_to_apply": [
+          "Gửi CV về địa chỉ email: hr@abccompany.com",
+          "Hoặc nộp trực tiếp tại văn phòng công ty",
+          "Tiêu đề email ghi rõ: [Vị trí ứng tuyển] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Nhân Viên Kinh Doanh Bất Động Sản",
+        "salary": "8 - 15 triệu/tháng + hoa hồng",
+        "location": "Quận 7, TP. Hồ Chí Minh",
+        "experience": "Không yêu cầu (sẽ được đào tạo)",
+        "deadline": "15/04/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Tìm kiếm, tư vấn khách hàng có nhu cầu mua/thuê bất động sản",
+          "Giới thiệu sản phẩm, chốt hợp đồng với khách hàng",
+          "Tham gia triển khai các sự kiện mở bán, hội chợ BĐS",
+          "Phối hợp với đội marketing để tiếp cận khách hàng tiềm năng"
+        ],
+        "requirements": [
+          "Tốt nghiệp THPT trở lên",
+          "Yêu thích kinh doanh, khả năng giao tiếp tốt",
+          "Có phương tiện đi lại",
+          "Có khả năng làm việc độc lập và theo nhóm",
+          "Chịu được áp lực doanh số"
+        ],
+        "benefits": [
+          "Thu nhập: Lương cứng 8 - 15 triệu + % hoa hồng cao",
+          "Được đào tạo bài bản về nghiệp vụ bán hàng và kiến thức BĐS",
+          "Thưởng nóng theo kết quả kinh doanh, du lịch hàng năm",
+          "Cơ hội thăng tiến lên vị trí Trưởng nhóm/Trưởng phòng Kinh doanh"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: sales@realtycompany.vn",
+          "Tiêu đề email: [Vị trí BĐS] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Chuyên Viên Digital Marketing",
+        "salary": "12 - 18 triệu/tháng",
+        "location": "Quận Bình Thạnh, TP. Hồ Chí Minh",
+        "experience": "2 năm trở lên trong lĩnh vực Digital Marketing",
+        "deadline": "30/05/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Lên kế hoạch và triển khai các chiến dịch quảng cáo Google Ads, Facebook Ads",
+          "Theo dõi, phân tích và tối ưu hiệu quả chiến dịch marketing",
+          "Quản lý nội dung trên website, fanpage, các kênh social media",
+          "Phối hợp với các bộ phận liên quan để nâng cao hiệu quả truyền thông"
+        ],
+        "requirements": [
+          "Tốt nghiệp Đại học chuyên ngành Marketing, Truyền thông hoặc tương đương",
+          "Thành thạo các công cụ đo lường, phân tích (Google Analytics, Facebook Pixel...)",
+          "Kỹ năng viết content cơ bản, tư duy sáng tạo",
+          "Khả năng làm việc nhóm, quản lý thời gian tốt"
+        ],
+        "benefits": [
+          "Lương cứng: 12.000.000 - 18.000.000 VNĐ/tháng + thưởng KPIs",
+          "Môi trường làm việc trẻ trung, năng động",
+          "Được tham gia các khóa đào tạo chuyên sâu về Digital Marketing",
+          "Chế độ BHXH, BHYT, BHTN đầy đủ, thưởng cuối năm hấp dẫn"
+        ],
+        "how_to_apply": [
+          "Gửi CV và Portfolio qua email: digital@marketinghub.vn",
+          "Tiêu đề email: [Digital Marketing] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Nhân Viên Phục Vụ Nhà Hàng",
+        "salary": "5 - 7 triệu/tháng + tips",
+        "location": "Quận Hoàn Kiếm, Hà Nội",
+        "experience": "Không yêu cầu (được đào tạo)",
+        "deadline": "31/03/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Đón tiếp, sắp xếp chỗ ngồi cho khách",
+          "Tiếp nhận và phục vụ order đồ ăn, thức uống",
+          "Đảm bảo vệ sinh khu vực làm việc và khu vực phục vụ khách",
+          "Hỗ trợ khách hàng khi có nhu cầu, giải quyết các phản hồi của khách"
+        ],
+        "requirements": [
+          "Tốt nghiệp THPT",
+          "Ngoại hình ưa nhìn, giao tiếp thân thiện",
+          "Có thể làm việc theo ca, linh hoạt thời gian",
+          "Nhanh nhẹn, nhiệt tình, chịu khó"
+        ],
+        "benefits": [
+          "Lương cơ bản + tips + phụ cấp (ăn ca, gửi xe)",
+          "Được đào tạo kỹ năng phục vụ, kỹ năng giao tiếp",
+          "Môi trường làm việc chuyên nghiệp, thân thiện",
+          "Thưởng theo hiệu quả công việc, cơ hội thăng tiến lên Ca trưởng/Quản lý"
+        ],
+        "how_to_apply": [
+          "Gửi hồ sơ qua email: hr@restaurant.vn",
+          "Hoặc nộp trực tiếp tại địa chỉ nhà hàng"
+        ]
+      },
+      {
+        "title": "Kế Toán Tổng Hợp",
+        "salary": "10 - 15 triệu/tháng",
+        "location": "Quận Cầu Giấy, Hà Nội",
+        "experience": "1 - 2 năm ở vị trí tương đương",
+        "deadline": "20/04/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Thực hiện hạch toán, báo cáo tài chính, báo cáo thuế",
+          "Kiểm soát và quản lý chi phí, công nợ, doanh thu",
+          "Tổng hợp, lập báo cáo quản trị theo yêu cầu của Ban Giám đốc",
+          "Phối hợp với các bộ phận để hoàn thiện chứng từ kế toán"
+        ],
+        "requirements": [
+          "Tốt nghiệp Đại học chuyên ngành Kế toán, Kiểm toán, Tài chính",
+          "Nắm vững các quy định về thuế, chế độ kế toán",
+          "Kỹ năng Excel tốt, ưu tiên biết sử dụng phần mềm kế toán MISA",
+          "Cẩn thận, trung thực, có tinh thần trách nhiệm"
+        ],
+        "benefits": [
+          "Lương cơ bản: 10 - 15 triệu (tùy năng lực) + thưởng KPI",
+          "Tham gia đầy đủ BHXH, BHYT, BHTN",
+          "Thưởng lễ, tết, lương tháng 13",
+          "Cơ hội thăng tiến lên Trưởng phòng Kế toán"
+        ],
+        "how_to_apply": [
+          "Gửi CV và bằng cấp liên quan đến email: finance@abcgroup.com",
+          "Tiêu đề email: [Kế Toán Tổng Hợp] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Lập Trình Viên Python",
+        "salary": "15 - 25 triệu/tháng",
+        "location": "Quận 10, TP. Hồ Chí Minh",
+        "experience": "2 năm trở lên với Python",
+        "deadline": "30/06/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Tham gia phát triển các dự án phần mềm sử dụng Python (Django/Flask)",
+          "Thiết kế, xây dựng và tối ưu hệ thống backend",
+          "Phối hợp với team frontend, QA để hoàn thiện sản phẩm",
+          "Đóng góp ý tưởng cải tiến quy trình phát triển"
+        ],
+        "requirements": [
+          "Tốt nghiệp Đại học chuyên ngành CNTT hoặc tương đương",
+          "Thành thạo Python, ưu tiên có kinh nghiệm với Django hoặc Flask",
+          "Hiểu biết về cơ sở dữ liệu (MySQL, PostgreSQL)",
+          "Có kỹ năng làm việc nhóm, tư duy logic, giải quyết vấn đề tốt"
+        ],
+        "benefits": [
+          "Lương: 15 - 25 triệu/tháng + thưởng dự án",
+          "Môi trường startup trẻ trung, cơ hội thăng tiến nhanh",
+          "Tham gia BHXH, BHYT, BHTN đầy đủ",
+          "Được cấp máy tính cá nhân và hỗ trợ chi phí học tập"
+        ],
+        "how_to_apply": [
+          "Gửi CV và link GitHub (nếu có) qua email: hr@techstartup.vn",
+          "Tiêu đề email: [Lập Trình Viên Python] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Chuyên Viên Tư Vấn Tài Chính",
+        "salary": "12 - 20 triệu/tháng + hoa hồng",
+        "location": "Quận 2, TP. Hồ Chí Minh",
+        "experience": "1 năm trong lĩnh vực tài chính, ngân hàng, bảo hiểm",
+        "deadline": "15/05/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Tư vấn các sản phẩm tài chính (bảo hiểm, đầu tư, vay vốn...)",
+          "Phân tích nhu cầu và đề xuất giải pháp tài chính phù hợp cho khách hàng",
+          "Chăm sóc, duy trì mối quan hệ với khách hàng hiện hữu",
+          "Tham gia các hoạt động marketing, hội thảo để mở rộng tệp khách hàng"
+        ],
+        "requirements": [
+          "Tốt nghiệp Đại học chuyên ngành Tài chính, Ngân hàng, Kinh tế...",
+          "Kỹ năng giao tiếp, đàm phán, thuyết phục tốt",
+          "Ngoại hình chuyên nghiệp, tác phong lịch sự",
+          "Có chứng chỉ hành nghề tài chính là lợi thế"
+        ],
+        "benefits": [
+          "Thu nhập: Lương cứng + hoa hồng theo doanh số",
+          "Thưởng nóng khi đạt/ vượt target",
+          "Đào tạo chuyên sâu về các sản phẩm tài chính, kỹ năng tư vấn",
+          "Cơ hội du lịch nước ngoài, tham dự hội thảo quốc tế"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: financeadvisory@bankcorp.vn",
+          "Tiêu đề email: [Tư Vấn Tài Chính] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Kỹ Sư Cơ Khí",
+        "salary": "10 - 20 triệu/tháng",
+        "location": "Khu Công Nghiệp VSIP, Bình Dương",
+        "experience": "2 năm trở lên trong lĩnh vực cơ khí chế tạo máy",
+        "deadline": "10/04/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Thiết kế, giám sát quy trình sản xuất, lắp đặt máy móc",
+          "Kiểm tra chất lượng sản phẩm, đảm bảo đúng tiêu chuẩn kỹ thuật",
+          "Phối hợp với bộ phận bảo trì, vận hành để khắc phục sự cố",
+          "Tham gia cải tiến quy trình, tiết kiệm chi phí sản xuất"
+        ],
+        "requirements": [
+          "Tốt nghiệp Đại học chuyên ngành Cơ khí, Cơ điện tử hoặc tương đương",
+          "Thành thạo AutoCAD, SolidWorks hoặc các phần mềm thiết kế cơ khí",
+          "Am hiểu về vật liệu, tiêu chuẩn kỹ thuật",
+          "Khả năng làm việc nhóm, tư duy sáng tạo"
+        ],
+        "benefits": [
+          "Lương: 10 - 20 triệu/tháng + phụ cấp nhà ở, đi lại",
+          "Tham gia BHXH, BHYT, BHTN theo quy định",
+          "Thưởng sáng kiến, thưởng cuối năm",
+          "Được đào tạo và có cơ hội thăng tiến lên Quản lý Dự án"
+        ],
+        "how_to_apply": [
+          "Gửi CV và bảng điểm qua email: hr@mechavina.vn",
+          "Tiêu đề email: [Kỹ Sư Cơ Khí] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Điều Dưỡng Viên",
+        "salary": "8 - 12 triệu/tháng",
+        "location": "Bệnh viện Đa khoa ABC, Quận Ba Đình, Hà Nội",
+        "experience": "Ưu tiên ứng viên có chứng chỉ hành nghề Điều dưỡng",
+        "deadline": "01/05/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Chăm sóc, theo dõi tình trạng bệnh nhân theo chỉ định của bác sĩ",
+          "Thực hiện các kỹ thuật điều dưỡng: tiêm, truyền, thay băng...",
+          "Phối hợp với các bộ phận khác để đảm bảo quy trình khám chữa bệnh",
+          "Tư vấn, hướng dẫn bệnh nhân và người nhà về chăm sóc sức khỏe"
+        ],
+        "requirements": [
+          "Tốt nghiệp Cao đẳng/Đại học Điều dưỡng",
+          "Có chứng chỉ hành nghề hoặc sắp hoàn thiện",
+          "Cẩn thận, chu đáo, có tinh thần trách nhiệm",
+          "Khả năng làm việc theo ca, chịu được áp lực"
+        ],
+        "benefits": [
+          "Lương: 8 - 12 triệu/tháng (tùy kinh nghiệm) + phụ cấp trực",
+          "Được đào tạo, bồi dưỡng chuyên môn thường xuyên",
+          "Môi trường làm việc chuyên nghiệp, trang thiết bị hiện đại",
+          "Tham gia BHXH, BHYT, BHTN, thưởng lễ tết, lương tháng 13"
+        ],
+        "how_to_apply": [
+          "Nộp hồ sơ trực tiếp tại phòng Nhân sự Bệnh viện Đa khoa ABC",
+          "Hoặc gửi CV qua email: recruitment@abchospital.vn"
+        ]
+      },
+      {
+        "title": "Giáo Viên Tiếng Anh",
+        "salary": "10 - 15 triệu/tháng",
+        "location": "Trung tâm Anh ngữ XYZ, Quận Thanh Xuân, Hà Nội",
+        "experience": "1 năm giảng dạy trở lên",
+        "deadline": "25/04/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Giảng dạy các khóa học Tiếng Anh (giao tiếp, IELTS, TOEIC...)",
+          "Xây dựng giáo án, bài giảng sáng tạo, phù hợp với từng đối tượng học viên",
+          "Theo dõi, đánh giá kết quả học tập và hỗ trợ học viên",
+          "Tham gia các hoạt động ngoại khóa, sự kiện của trung tâm"
+        ],
+        "requirements": [
+          "Tốt nghiệp Đại học chuyên ngành Ngôn ngữ Anh hoặc có chứng chỉ giảng dạy (TESOL, CELTA...)",
+          "Kỹ năng giao tiếp, thuyết trình tốt, phát âm chuẩn",
+          "Có kinh nghiệm giảng dạy, đặc biệt với lớp luyện thi chứng chỉ quốc tế",
+          "Nhiệt tình, yêu thích công việc giảng dạy"
+        ],
+        "benefits": [
+          "Lương: 10 - 15 triệu/tháng + thưởng theo số giờ dạy",
+          "Được cung cấp tài liệu, cơ sở vật chất hiện đại",
+          "Tham gia BHXH, BHYT, BHTN đầy đủ",
+          "Cơ hội nâng cao chuyên môn qua các khóa đào tạo, hội thảo giáo dục"
+        ],
+        "how_to_apply": [
+          "Gửi CV, bằng cấp, chứng chỉ liên quan qua email: teacher@xyzcenter.vn",
+          "Tiêu đề email: [Giáo Viên Tiếng Anh] - [Họ tên]"
+        ]
+      }
+    ],
+    "jobs_group_2": [
+      {
+        "title": "Trưởng Nhóm Kinh Doanh",
+        "salary": "15 - 25 triệu/tháng + hoa hồng",
+        "location": "Quận 3, TP. Hồ Chí Minh",
+        "experience": "3 năm trong lĩnh vực bán hàng, ít nhất 1 năm ở vị trí quản lý",
+        "deadline": "31/05/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Quản lý, đào tạo và giám sát đội ngũ nhân viên kinh doanh",
+          "Lập kế hoạch và triển khai chiến lược bán hàng, phát triển thị trường",
+          "Theo dõi, đánh giá kết quả doanh số, đề xuất giải pháp cải thiện",
+          "Duy trì và phát triển mối quan hệ với khách hàng lớn, khách hàng tiềm năng"
+        ],
+        "requirements": [
+          "Tốt nghiệp Đại học chuyên ngành Quản trị Kinh doanh, Marketing hoặc liên quan",
+          "Có kinh nghiệm quản lý nhóm kinh doanh từ 5 người trở lên",
+          "Kỹ năng lãnh đạo, giao tiếp và đàm phán tốt",
+          "Khả năng phân tích thị trường, lập kế hoạch và báo cáo"
+        ],
+        "benefits": [
+          "Thu nhập hấp dẫn: Lương cơ bản + hoa hồng + thưởng doanh số",
+          "Cơ hội thăng tiến lên Giám đốc Kinh doanh",
+          "Chế độ BHXH, BHYT, BHTN đầy đủ",
+          "Thưởng lễ, tết, du lịch công ty hàng năm"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: hr@companyxyz.vn",
+          "Tiêu đề email: [Trưởng Nhóm Kinh Doanh] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Biên Tập Viên Nội Dung (Content Editor)",
+        "salary": "8 - 12 triệu/tháng",
+        "location": "Quận Đống Đa, Hà Nội",
+        "experience": "1 - 2 năm trong lĩnh vực biên tập, xuất bản, truyền thông",
+        "deadline": "15/05/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Biên tập, chỉnh sửa nội dung cho các kênh truyền thông (website, blog, tạp chí...)",
+          "Đảm bảo chất lượng, tính chính xác và tuân thủ quy định bản quyền",
+          "Phối hợp với bộ phận thiết kế để trình bày nội dung trực quan, hấp dẫn",
+          "Tham gia xây dựng ý tưởng, chủ đề cho các dự án nội dung mới"
+        ],
+        "requirements": [
+          "Tốt nghiệp Đại học chuyên ngành Báo chí, Truyền thông hoặc Ngôn ngữ",
+          "Có kỹ năng viết, biên tập, am hiểu các quy tắc chính tả, ngữ pháp",
+          "Tư duy sáng tạo, cẩn thận, tỉ mỉ",
+          "Kỹ năng làm việc nhóm, chịu được áp lực về deadline"
+        ],
+        "benefits": [
+          "Lương: 8 - 12 triệu/tháng",
+          "Thưởng theo hiệu quả dự án, hỗ trợ ăn trưa",
+          "Môi trường làm việc sáng tạo, trẻ trung",
+          "Chế độ BHXH, BHYT, BHTN đầy đủ"
+        ],
+        "how_to_apply": [
+          "Gửi CV và một số bài viết/bài biên tập mẫu qua email: editor@publishinghouse.vn",
+          "Tiêu đề email: [Biên Tập Viên Nội Dung] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Nhân Viên Lễ Tân Khách Sạn",
+        "salary": "6 - 9 triệu/tháng + phụ cấp ca",
+        "location": "Quận Hoàn Kiếm, Hà Nội",
+        "experience": "Không yêu cầu (được đào tạo)",
+        "deadline": "10/04/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Tiếp đón khách, làm thủ tục check-in, check-out",
+          "Tư vấn thông tin về dịch vụ khách sạn và các địa điểm du lịch",
+          "Xử lý đặt phòng qua điện thoại, email, hệ thống online",
+          "Phối hợp với các bộ phận buồng phòng, nhà hàng để đảm bảo dịch vụ tốt nhất"
+        ],
+        "requirements": [
+          "Tốt nghiệp Trung cấp trở lên, ưu tiên ngành Du lịch - Khách sạn",
+          "Giao tiếp tiếng Anh cơ bản, ngoại hình ưa nhìn",
+          "Kỹ năng giao tiếp, xử lý tình huống linh hoạt",
+          "Sẵn sàng làm việc theo ca (sáng/chiều/đêm)"
+        ],
+        "benefits": [
+          "Lương cơ bản + phụ cấp ca + thưởng doanh thu",
+          "Được đào tạo nghiệp vụ lễ tân chuyên nghiệp",
+          "Chế độ BHXH, BHYT, BHTN đầy đủ",
+          "Môi trường làm việc sang trọng, chuyên nghiệp"
+        ],
+        "how_to_apply": [
+          "Gửi CV kèm ảnh 3x4 qua email: hr@luxuryhotel.vn",
+          "Tiêu đề email: [Nhân Viên Lễ Tân Khách Sạn] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Kỹ Sư Xây Dựng",
+        "salary": "12 - 20 triệu/tháng",
+        "location": "Quận Cầu Giấy, Hà Nội",
+        "experience": "2 năm trở lên trong lĩnh vực xây dựng dân dụng, công nghiệp",
+        "deadline": "20/06/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Lập kế hoạch, giám sát tiến độ thi công tại công trường",
+          "Kiểm tra, đảm bảo chất lượng vật liệu và quy trình xây dựng",
+          "Phối hợp với nhà thầu, đội thi công, tư vấn giám sát",
+          "Lập báo cáo tiến độ, báo cáo chi phí, đề xuất các phương án cải tiến"
+        ],
+        "requirements": [
+          "Tốt nghiệp Đại học chuyên ngành Xây dựng, Kiến trúc hoặc liên quan",
+          "Có chứng chỉ hành nghề giám sát/thiết kế (nếu có)",
+          "Thành thạo AutoCAD, MS Project hoặc các phần mềm quản lý công trình",
+          "Kỹ năng giải quyết vấn đề, chịu được áp lực cao"
+        ],
+        "benefits": [
+          "Lương: 12 - 20 triệu/tháng + phụ cấp công trường",
+          "Tham gia BHXH, BHYT, BHTN, chế độ bảo hộ lao động đầy đủ",
+          "Thưởng theo tiến độ dự án, thưởng lễ tết",
+          "Cơ hội thăng tiến lên Trưởng phòng Dự án"
+        ],
+        "how_to_apply": [
+          "Gửi CV, bằng cấp liên quan qua email: construction@xyzgroup.vn",
+          "Tiêu đề email: [Kỹ Sư Xây Dựng] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Nhân Viên Telesales",
+        "salary": "6 - 10 triệu/tháng + hoa hồng",
+        "location": "Quận Tân Bình, TP. Hồ Chí Minh",
+        "experience": "Không yêu cầu (được đào tạo)",
+        "deadline": "30/04/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Gọi điện thoại tư vấn, giới thiệu sản phẩm/dịch vụ tới khách hàng",
+          "Xác nhận thông tin, hỗ trợ khách hàng đặt hàng, giải đáp thắc mắc",
+          "Cập nhật dữ liệu khách hàng vào hệ thống CRM",
+          "Phối hợp với các bộ phận liên quan để đảm bảo giao hàng, thu hồi công nợ"
+        ],
+        "requirements": [
+          "Tốt nghiệp THPT trở lên",
+          "Giọng nói rõ ràng, không nói ngọng, nói lắp",
+          "Kỹ năng giao tiếp, thuyết phục, xử lý tình huống",
+          "Kiên trì, chịu được áp lực về doanh số"
+        ],
+        "benefits": [
+          "Lương cứng + hoa hồng cao theo số đơn hàng",
+          "Thưởng nóng khi đạt/vượt target",
+          "Đào tạo kỹ năng telesales, kỹ năng chốt sale",
+          "Môi trường làm việc trẻ trung, cơ hội thăng tiến"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: sales@callcenter.vn",
+          "Tiêu đề email: [Telesales] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Thợ Điện Công Nghiệp",
+        "salary": "8 - 12 triệu/tháng",
+        "location": "Khu Công Nghiệp AMATA, Đồng Nai",
+        "experience": "1 - 2 năm trong lĩnh vực điện công nghiệp",
+        "deadline": "10/05/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Lắp đặt, vận hành, bảo dưỡng hệ thống điện trong nhà máy",
+          "Kiểm tra, phát hiện và khắc phục sự cố điện",
+          "Đảm bảo an toàn điện và tuân thủ quy định về an toàn lao động",
+          "Phối hợp với các bộ phận liên quan trong quá trình sản xuất"
+        ],
+        "requirements": [
+          "Tốt nghiệp Trung cấp/Cao đẳng chuyên ngành Điện công nghiệp",
+          "Biết đọc hiểu bản vẽ kỹ thuật, sơ đồ mạch điện",
+          "Cẩn thận, có tinh thần trách nhiệm",
+          "Sẵn sàng làm việc theo ca, tăng ca khi cần"
+        ],
+        "benefits": [
+          "Lương: 8 - 12 triệu/tháng + phụ cấp",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Được cấp đồng phục, đồ bảo hộ",
+          "Thưởng lễ, tết, lương tháng 13"
+        ],
+        "how_to_apply": [
+          "Gửi CV về email: hr@electrofactory.vn",
+          "Tiêu đề email: [Thợ Điện Công Nghiệp] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Nhân Viên Content Writer",
+        "salary": "7 - 10 triệu/tháng",
+        "location": "Quận Phú Nhuận, TP. Hồ Chí Minh",
+        "experience": "6 tháng - 1 năm trong lĩnh vực viết nội dung (blog, website, social)",
+        "deadline": "05/05/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Viết bài cho website, fanpage, các kênh truyền thông",
+          "Nghiên cứu từ khóa, xây dựng nội dung SEO",
+          "Phối hợp với team thiết kế để sản xuất nội dung đa phương tiện",
+          "Theo dõi hiệu quả bài viết, tối ưu nội dung theo chỉ số KPI"
+        ],
+        "requirements": [
+          "Tốt nghiệp Cao đẳng/Đại học chuyên ngành Marketing, Báo chí, Truyền thông",
+          "Kỹ năng viết tốt, chính tả chuẩn, hành văn mạch lạc",
+          "Biết sử dụng cơ bản các công cụ SEO, Google Analytics",
+          "Sáng tạo, chủ động, ham học hỏi"
+        ],
+        "benefits": [
+          "Lương: 7 - 10 triệu/tháng + thưởng KPI",
+          "Được tham gia các khóa đào tạo về SEO, Digital Marketing",
+          "Môi trường trẻ trung, năng động",
+          "Chế độ BHXH, BHYT, BHTN đầy đủ"
+        ],
+        "how_to_apply": [
+          "Gửi CV và một số bài viết tiêu biểu qua email: content@marketingagency.vn",
+          "Tiêu đề email: [Content Writer] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Nhân Viên IT Support",
+        "salary": "8 - 12 triệu/tháng",
+        "location": "Quận 1, TP. Hồ Chí Minh",
+        "experience": "1 năm trở lên trong lĩnh vực hỗ trợ kỹ thuật IT",
+        "deadline": "25/05/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Cài đặt, cấu hình và bảo trì hệ thống máy tính, mạng nội bộ",
+          "Xử lý sự cố phần cứng, phần mềm, mạng cho nhân viên",
+          "Quản lý tài khoản người dùng, cấp phát trang thiết bị",
+          "Hỗ trợ các dự án IT nội bộ và nâng cấp hệ thống"
+        ],
+        "requirements": [
+          "Tốt nghiệp Trung cấp/Cao đẳng/Đại học chuyên ngành CNTT hoặc liên quan",
+          "Kiến thức cơ bản về hệ điều hành Windows, Linux",
+          "Kỹ năng giao tiếp, hỗ trợ người dùng",
+          "Chủ động, cẩn thận, có khả năng làm việc độc lập"
+        ],
+        "benefits": [
+          "Lương: 8 - 12 triệu/tháng",
+          "Thưởng dự án, thưởng cuối năm",
+          "Môi trường làm việc chuyên nghiệp, đồng nghiệp thân thiện",
+          "Chế độ BHXH, BHYT, BHTN đầy đủ"
+        ],
+        "how_to_apply": [
+          "Gửi CV về email: it@companyabc.vn",
+          "Tiêu đề email: [IT Support] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Nhân Viên Quản Lý Kho",
+        "salary": "7 - 9 triệu/tháng",
+        "location": "Quận Bình Tân, TP. Hồ Chí Minh",
+        "experience": "Ưu tiên ứng viên có kinh nghiệm quản lý kho, vận hành kho",
+        "deadline": "15/05/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Sắp xếp, kiểm đếm hàng hóa, đảm bảo xuất - nhập đúng quy trình",
+          "Cập nhật số liệu kho lên hệ thống, báo cáo tồn kho định kỳ",
+          "Đảm bảo vệ sinh, an toàn cho hàng hóa và kho bãi",
+          "Phối hợp với bộ phận giao nhận để đảm bảo tiến độ giao hàng"
+        ],
+        "requirements": [
+          "Tốt nghiệp THPT trở lên",
+          "Có kỹ năng tin học văn phòng (Excel)",
+          "Trung thực, cẩn thận, có sức khỏe tốt",
+          "Ưu tiên ứng viên có kinh nghiệm hoặc chứng chỉ quản lý kho"
+        ],
+        "benefits": [
+          "Lương: 7 - 9 triệu/tháng + phụ cấp",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Thưởng năng suất, thưởng lễ tết",
+          "Được đào tạo về quy trình quản lý kho hiện đại"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: warehouse@logisticsabc.vn",
+          "Tiêu đề email: [Nhân Viên Quản Lý Kho] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Nhân Viên Nhập Liệu (Data Entry)",
+        "salary": "5 - 7 triệu/tháng",
+        "location": "Quận Gò Vấp, TP. Hồ Chí Minh",
+        "experience": "Không yêu cầu (được đào tạo)",
+        "deadline": "20/04/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Nhập liệu thông tin khách hàng, sản phẩm lên hệ thống",
+          "Đảm bảo tính chính xác, đầy đủ của dữ liệu",
+          "Kiểm tra, rà soát và chỉnh sửa sai sót",
+          "Lưu trữ, quản lý dữ liệu theo quy định"
+        ],
+        "requirements": [
+          "Tốt nghiệp THPT trở lên",
+          "Kỹ năng đánh máy, sử dụng Excel cơ bản",
+          "Cẩn thận, tỉ mỉ, chịu khó",
+          "Có thể làm việc độc lập, đáp ứng tiến độ"
+        ],
+        "benefits": [
+          "Lương: 5 - 7 triệu/tháng",
+          "Thưởng theo năng suất, chất lượng nhập liệu",
+          "Được đào tạo nghiệp vụ nhập liệu",
+          "Môi trường làm việc ổn định, lâu dài"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: data@company.vn",
+          "Tiêu đề email: [Nhân Viên Nhập Liệu] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Kiến Trúc Sư",
+        "salary": "15 - 25 triệu/tháng",
+        "location": "Quận 2, TP. Hồ Chí Minh",
+        "experience": "2 năm trở lên trong lĩnh vực thiết kế kiến trúc",
+        "deadline": "31/05/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Khảo sát hiện trạng, lên ý tưởng thiết kế kiến trúc công trình dân dụng",
+          "Triển khai bản vẽ kỹ thuật, phối cảnh 3D",
+          "Phối hợp với các bộ phận liên quan (kết cấu, M&E) để hoàn thiện hồ sơ thiết kế",
+          "Giám sát tác giả, điều chỉnh thiết kế khi cần"
+        ],
+        "requirements": [
+          "Tốt nghiệp Đại học chuyên ngành Kiến trúc",
+          "Sử dụng thành thạo AutoCAD, 3Ds Max, SketchUp, Revit...",
+          "Có tư duy thẩm mỹ, sáng tạo, nắm bắt xu hướng thiết kế",
+          "Khả năng làm việc nhóm, quản lý thời gian tốt"
+        ],
+        "benefits": [
+          "Lương: 15 - 25 triệu/tháng + thưởng dự án",
+          "Môi trường làm việc chuyên nghiệp, nhiều dự án lớn",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Cơ hội thăng tiến lên Trưởng phòng Thiết kế"
+        ],
+        "how_to_apply": [
+          "Gửi CV và Portfolio qua email: architect@designstudio.vn",
+          "Tiêu đề email: [Kiến Trúc Sư] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Thợ Hàn",
+        "salary": "7 - 10 triệu/tháng",
+        "location": "Khu Công Nghiệp Long Hậu, Long An",
+        "experience": "1 năm trong lĩnh vực hàn, gia công kim loại",
+        "deadline": "10/06/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Thực hiện hàn, cắt, gia công chi tiết kim loại theo bản vẽ",
+          "Kiểm tra, đảm bảo chất lượng mối hàn",
+          "Sử dụng và bảo quản dụng cụ, máy hàn đúng quy trình",
+          "Tuân thủ các quy định về an toàn lao động"
+        ],
+        "requirements": [
+          "Tốt nghiệp Trung cấp nghề hàn hoặc tương đương",
+          "Biết đọc bản vẽ kỹ thuật, có kinh nghiệm hàn TIG/MIG là lợi thế",
+          "Sức khỏe tốt, sẵn sàng làm việc theo ca",
+          "Trung thực, trách nhiệm, cẩn thận"
+        ],
+        "benefits": [
+          "Lương: 7 - 10 triệu/tháng + phụ cấp độc hại",
+          "Thưởng năng suất, thưởng cuối năm",
+          "Được cung cấp đồ bảo hộ, tham gia BHXH, BHYT, BHTN",
+          "Cơ hội phát triển kỹ năng và nâng cao tay nghề"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: hr@metalwork.vn",
+          "Tiêu đề email: [Thợ Hàn] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Nhân Viên QA/QC",
+        "salary": "9 - 13 triệu/tháng",
+        "location": "Quận Thủ Đức, TP. Hồ Chí Minh",
+        "experience": "1 - 2 năm trong lĩnh vực QA/QC sản xuất",
+        "deadline": "20/05/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Kiểm tra chất lượng nguyên liệu đầu vào, sản phẩm đầu ra",
+          "Thiết lập và giám sát quy trình kiểm soát chất lượng",
+          "Xử lý các vấn đề phát sinh, đề xuất giải pháp cải tiến",
+          "Lập báo cáo định kỳ về tình hình chất lượng sản phẩm"
+        ],
+        "requirements": [
+          "Tốt nghiệp Cao đẳng/Đại học chuyên ngành Công nghệ Thực phẩm, Hóa học hoặc liên quan",
+          "Am hiểu quy trình QC, tiêu chuẩn ISO, HACCP (tùy lĩnh vực)",
+          "Kỹ năng quan sát, phân tích và giải quyết vấn đề",
+          "Cẩn thận, có trách nhiệm cao trong công việc"
+        ],
+        "benefits": [
+          "Lương: 9 - 13 triệu/tháng + thưởng hiệu suất",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Thưởng lễ, tết, du lịch công ty",
+          "Môi trường làm việc hiện đại, cơ hội thăng tiến"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: qa@factoryxyz.vn",
+          "Tiêu đề email: [Nhân Viên QA/QC] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Graphic Designer",
+        "salary": "10 - 15 triệu/tháng",
+        "location": "Quận Hai Bà Trưng, Hà Nội",
+        "experience": "1 - 2 năm thiết kế đồ họa",
+        "deadline": "05/06/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Thiết kế các ấn phẩm truyền thông: banner, poster, brochure, catalogue...",
+          "Phối hợp với team Marketing để lên ý tưởng hình ảnh cho chiến dịch quảng cáo",
+          "Chỉnh sửa, hoàn thiện sản phẩm theo yêu cầu khách hàng",
+          "Đảm bảo tiến độ, chất lượng thiết kế"
+        ],
+        "requirements": [
+          "Tốt nghiệp Cao đẳng/Đại học chuyên ngành Thiết kế đồ họa, Mỹ thuật",
+          "Sử dụng thành thạo Photoshop, Illustrator, InDesign",
+          "Có tư duy thẩm mỹ tốt, khả năng sáng tạo",
+          "Kỹ năng làm việc nhóm, quản lý thời gian"
+        ],
+        "benefits": [
+          "Lương: 10 - 15 triệu/tháng + thưởng dự án",
+          "Môi trường làm việc trẻ trung, trang thiết bị đầy đủ",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Cơ hội phát triển thành Trưởng nhóm Thiết kế"
+        ],
+        "how_to_apply": [
+          "Gửi CV và Portfolio qua email: design@creativeagency.vn",
+          "Tiêu đề email: [Graphic Designer] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Trợ Lý Giám Đốc",
+        "salary": "12 - 18 triệu/tháng",
+        "location": "Quận 10, TP. Hồ Chí Minh",
+        "experience": "2 năm trở lên ở vị trí tương đương",
+        "deadline": "30/04/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Hỗ trợ Giám đốc trong việc sắp xếp lịch làm việc, lịch họp, công tác",
+          "Chuẩn bị tài liệu, báo cáo, tham gia các cuộc họp và ghi biên bản",
+          "Theo dõi, đôn đốc tiến độ công việc của các phòng ban",
+          "Thực hiện các công việc hành chính, đối nội, đối ngoại khi được phân công"
+        ],
+        "requirements": [
+          "Tốt nghiệp Đại học chuyên ngành Quản trị Kinh doanh, Kinh tế, Ngoại ngữ...",
+          "Thành thạo tin học văn phòng, kỹ năng soạn thảo văn bản tốt",
+          "Khả năng giao tiếp tiếng Anh thành thạo (nếu cần)",
+          "Nhanh nhẹn, cẩn thận, có tư duy sắp xếp, tổ chức"
+        ],
+        "benefits": [
+          "Lương: 12 - 18 triệu/tháng + thưởng",
+          "Chế độ BHXH, BHYT, BHTN đầy đủ",
+          "Thưởng lễ, tết, lương tháng 13",
+          "Môi trường làm việc chuyên nghiệp, cơ hội học hỏi từ ban lãnh đạo"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: assistant@companyxyz.vn",
+          "Tiêu đề email: [Trợ Lý Giám Đốc] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Trình Dược Viên",
+        "salary": "7 - 12 triệu/tháng + hoa hồng",
+        "location": "Quận Bình Thạnh, TP. Hồ Chí Minh",
+        "experience": "Ưu tiên có kinh nghiệm trong lĩnh vực Dược phẩm",
+        "deadline": "10/05/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Giới thiệu, tư vấn sản phẩm dược phẩm của công ty đến các nhà thuốc, bệnh viện",
+          "Chăm sóc, duy trì mối quan hệ với khách hàng hiện có",
+          "Tìm kiếm, mở rộng hệ thống phân phối sản phẩm",
+          "Theo dõi, báo cáo doanh số và tình hình thị trường"
+        ],
+        "requirements": [
+          "Tốt nghiệp Trung cấp/Cao đẳng/Đại học ngành Dược hoặc liên quan",
+          "Kỹ năng giao tiếp, đàm phán tốt",
+          "Có phương tiện đi lại",
+          "Nhiệt tình, kiên trì, chịu áp lực doanh số"
+        ],
+        "benefits": [
+          "Lương cơ bản + % hoa hồng",
+          "Thưởng doanh số, thưởng nóng",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Được đào tạo chuyên môn, kỹ năng bán hàng"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: hr@pharma.vn",
+          "Tiêu đề email: [Trình Dược Viên] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Nhân Viên Điều Hành Tour (Du Lịch)",
+        "salary": "8 - 12 triệu/tháng",
+        "location": "Quận Hoàn Kiếm, Hà Nội",
+        "experience": "1 năm trong lĩnh vực du lịch, lữ hành",
+        "deadline": "15/06/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Tiếp nhận, xử lý yêu cầu đặt tour từ khách hàng và đối tác",
+          "Lên lịch trình, đặt dịch vụ (vé máy bay, khách sạn, nhà hàng...) cho tour",
+          "Giám sát, đảm bảo chất lượng tour diễn ra đúng kế hoạch",
+          "Phối hợp với bộ phận kinh doanh, hướng dẫn viên để hỗ trợ khách hàng"
+        ],
+        "requirements": [
+          "Tốt nghiệp Cao đẳng/Đại học chuyên ngành Du lịch, Quản trị Kinh doanh...",
+          "Kỹ năng giao tiếp, tổ chức, quản lý thời gian",
+          "Sử dụng thành thạo tin học văn phòng",
+          "Ngoại ngữ (tiếng Anh) là lợi thế lớn"
+        ],
+        "benefits": [
+          "Lương: 8 - 12 triệu/tháng + thưởng theo tour",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Môi trường năng động, nhiều cơ hội đi du lịch",
+          "Thưởng lễ, tết, lương tháng 13"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: travel@tourcompany.vn",
+          "Tiêu đề email: [Nhân Viên Điều Hành Tour] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Chuyên Viên PR (Quan Hệ Công Chúng)",
+        "salary": "10 - 16 triệu/tháng",
+        "location": "Quận Thanh Xuân, Hà Nội",
+        "experience": "2 năm trong lĩnh vực PR, Truyền thông",
+        "deadline": "05/07/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Lập kế hoạch và triển khai các hoạt động PR, xây dựng hình ảnh thương hiệu",
+          "Soạn thảo thông cáo báo chí, nội dung cho sự kiện, bài phát biểu...",
+          "Duy trì mối quan hệ với báo chí, KOLs, đối tác truyền thông",
+          "Theo dõi, đánh giá hiệu quả chiến dịch PR, đề xuất phương án cải tiến"
+        ],
+        "requirements": [
+          "Tốt nghiệp Đại học chuyên ngành Truyền thông, PR, Marketing",
+          "Kỹ năng viết lách, biên tập, sáng tạo nội dung",
+          "Khả năng giao tiếp, xây dựng mối quan hệ tốt",
+          "Có kinh nghiệm tổ chức sự kiện, họp báo là lợi thế"
+        ],
+        "benefits": [
+          "Lương: 10 - 16 triệu/tháng + thưởng theo dự án",
+          "Môi trường năng động, chuyên nghiệp",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Cơ hội phát triển nghề nghiệp, làm việc với các đối tác lớn"
+        ],
+        "how_to_apply": [
+          "Gửi CV và Portfolio qua email: pr@mediaagency.vn",
+          "Tiêu đề email: [Chuyên Viên PR] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Nhân Viên Xuất Nhập Khẩu (Logistics)",
+        "salary": "9 - 15 triệu/tháng",
+        "location": "Quận Tân Phú, TP. Hồ Chí Minh",
+        "experience": "1 - 2 năm trong lĩnh vực xuất nhập khẩu, logistics",
+        "deadline": "20/06/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Thực hiện các thủ tục hải quan, chứng từ xuất nhập khẩu",
+          "Theo dõi đơn hàng, liên hệ với hãng tàu, đối tác vận chuyển",
+          "Phối hợp với bộ phận kho, kế toán để đảm bảo giao nhận hàng hóa đúng tiến độ",
+          "Xử lý các vấn đề phát sinh, báo cáo tình hình cho quản lý"
+        ],
+        "requirements": [
+          "Tốt nghiệp Cao đẳng/Đại học chuyên ngành Ngoại thương, Kinh tế, Logistics",
+          "Am hiểu Incoterms, quy trình thủ tục hải quan",
+          "Kỹ năng tiếng Anh (đọc viết email, giao tiếp cơ bản)",
+          "Cẩn thận, tỉ mỉ, khả năng làm việc nhóm"
+        ],
+        "benefits": [
+          "Lương: 9 - 15 triệu/tháng + phụ cấp",
+          "Thưởng theo hiệu quả công việc, thưởng cuối năm",
+          "Môi trường làm việc chuyên nghiệp, cơ hội học hỏi",
+          "Tham gia BHXH, BHYT, BHTN đầy đủ"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: logistics@globaltrade.vn",
+          "Tiêu đề email: [Nhân Viên Xuất Nhập Khẩu] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Bác Sĩ Nha Khoa",
+        "salary": "15 - 30 triệu/tháng",
+        "location": "Quận 5, TP. Hồ Chí Minh",
+        "experience": "2 năm trở lên trong lĩnh vực nha khoa",
+        "deadline": "01/07/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Khám, tư vấn và điều trị các bệnh lý về răng miệng",
+          "Thực hiện thủ thuật nha khoa: trám, nhổ, cạo vôi, điều trị tủy...",
+          "Chỉ định, tư vấn cho bệnh nhân về các dịch vụ thẩm mỹ nha khoa",
+          "Quản lý hồ sơ bệnh án, đảm bảo chất lượng và an toàn trong điều trị"
+        ],
+        "requirements": [
+          "Tốt nghiệp Đại học chuyên ngành Răng - Hàm - Mặt",
+          "Có chứng chỉ hành nghề nha khoa",
+          "Tận tâm, chu đáo, kỹ năng giao tiếp tốt với bệnh nhân",
+          "Cập nhật kiến thức mới, sử dụng thành thạo trang thiết bị nha khoa"
+        ],
+        "benefits": [
+          "Lương: 15 - 30 triệu/tháng (tùy năng lực) + hoa hồng",
+          "Được hỗ trợ chi phí đào tạo, hội thảo chuyên ngành",
+          "Tham gia BHXH, BHYT, BHTN, bảo hiểm sức khỏe cao cấp",
+          "Môi trường làm việc hiện đại, đồng nghiệp thân thiện"
+        ],
+        "how_to_apply": [
+          "Nộp hồ sơ trực tiếp tại phòng Nhân sự phòng khám ABC (Quận 5)",
+          "Hoặc gửi CV qua email: dental@abcclinic.vn"
+        ]
+      }
+    ],
+    "jobs_group_3": [
+      {
+        "title": "Mobile Developer (Android/iOS)",
+        "salary": "15 - 25 triệu/tháng",
+        "location": "Quận 3, TP. Hồ Chí Minh",
+        "experience": "1 - 2 năm phát triển ứng dụng di động",
+        "deadline": "30/06/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Phát triển ứng dụng di động trên nền tảng Android hoặc iOS",
+          "Tối ưu hiệu suất, trải nghiệm người dùng, sửa lỗi và nâng cấp tính năng",
+          "Phối hợp với team backend để tích hợp API",
+          "Tham gia đề xuất ý tưởng, giải pháp công nghệ mới"
+        ],
+        "requirements": [
+          "Thành thạo ngôn ngữ lập trình Java/Kotlin (Android) hoặc Swift/Objective-C (iOS)",
+          "Có kinh nghiệm sử dụng các thư viện, framework phổ biến (Retrofit, Alamofire...)",
+          "Kỹ năng làm việc nhóm, tư duy logic",
+          "Ưu tiên ứng viên có sản phẩm demo trên Store"
+        ],
+        "benefits": [
+          "Lương: 15 - 25 triệu/tháng + thưởng dự án",
+          "Tham gia BHXH, BHYT, BHTN đầy đủ",
+          "Môi trường startup trẻ trung, sáng tạo",
+          "Được cung cấp thiết bị, hỗ trợ chi phí học tập"
+        ],
+        "how_to_apply": [
+          "Gửi CV kèm link GitHub/ứng dụng demo qua email: hr@mobitech.vn",
+          "Tiêu đề email: [Mobile Developer] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Frontend Developer (ReactJS)",
+        "salary": "12 - 20 triệu/tháng",
+        "location": "Quận Bình Thạnh, TP. Hồ Chí Minh",
+        "experience": "1 - 2 năm lập trình frontend",
+        "deadline": "31/05/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Xây dựng giao diện web sử dụng ReactJS, HTML, CSS, JavaScript",
+          "Tối ưu trải nghiệm người dùng, đảm bảo tốc độ tải trang",
+          "Tích hợp API, kết nối với backend",
+          "Nghiên cứu, áp dụng các công nghệ mới (NextJS, Redux, TypeScript...)"
+        ],
+        "requirements": [
+          "Thành thạo ReactJS, nắm vững ES6+, CSS3, HTML5",
+          "Có kinh nghiệm làm việc với RESTful API",
+          "Kỹ năng debug, tối ưu code frontend",
+          "Ưu tiên ứng viên có kinh nghiệm với SSR (NextJS)"
+        ],
+        "benefits": [
+          "Lương: 12 - 20 triệu/tháng + thưởng",
+          "Môi trường làm việc linh hoạt, có thể hybrid/remote",
+          "Chế độ BHXH, BHYT, BHTN theo quy định",
+          "Thưởng lễ, tết, du lịch hằng năm"
+        ],
+        "how_to_apply": [
+          "Gửi CV + link GitHub/Portfolio qua email: career@webtech.vn",
+          "Tiêu đề email: [Frontend React] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Backend Developer (Node.js)",
+        "salary": "15 - 25 triệu/tháng",
+        "location": "Quận Cầu Giấy, Hà Nội",
+        "experience": "2 năm lập trình backend",
+        "deadline": "15/06/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Thiết kế, phát triển và triển khai hệ thống backend sử dụng Node.js",
+          "Xây dựng API, đảm bảo hiệu năng và tính bảo mật",
+          "Tối ưu cơ sở dữ liệu (MongoDB, MySQL...)",
+          "Phối hợp với frontend, QA để hoàn thiện sản phẩm"
+        ],
+        "requirements": [
+          "Thành thạo Node.js, Express.js hoặc NestJS",
+          "Am hiểu về cơ sở dữ liệu quan hệ hoặc NoSQL",
+          "Kỹ năng viết code sạch, tối ưu và dễ bảo trì",
+          "Ưu tiên có kinh nghiệm triển khai trên AWS, GCP"
+        ],
+        "benefits": [
+          "Lương: 15 - 25 triệu/tháng + thưởng dự án",
+          "Tham gia đầy đủ BHXH, BHYT, BHTN",
+          "Môi trường trẻ trung, công nghệ cập nhật",
+          "Cơ hội thăng tiến lên Tech Lead"
+        ],
+        "how_to_apply": [
+          "Gửi CV và link GitHub qua email: hr@backendhub.vn",
+          "Tiêu đề email: [Backend Node.js] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "DevOps Engineer",
+        "salary": "20 - 35 triệu/tháng",
+        "location": "Quận 1, TP. Hồ Chí Minh",
+        "experience": "2 - 3 năm trong lĩnh vực DevOps",
+        "deadline": "30/06/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Thiết lập, quản lý CI/CD pipeline, tự động hóa quy trình triển khai",
+          "Xây dựng và giám sát hạ tầng trên Cloud (AWS, Azure, GCP)",
+          "Quản lý, tối ưu container (Docker, Kubernetes)",
+          "Đảm bảo bảo mật, tính sẵn sàng và hiệu suất hệ thống"
+        ],
+        "requirements": [
+          "Có kinh nghiệm với Linux, scripting (Bash, Python...)",
+          "Thành thạo các công cụ CI/CD như Jenkins, GitLab CI",
+          "Kiến thức về networking, load balancing, monitoring",
+          "Kỹ năng phân tích, giải quyết sự cố nhanh"
+        ],
+        "benefits": [
+          "Lương: 20 - 35 triệu/tháng + bonus theo dự án",
+          "Môi trường làm việc Agile, có cơ hội thử nghiệm công nghệ mới",
+          "BHXH, BHYT, BHTN, lương tháng 13",
+          "Cơ hội tham gia hội thảo DevOps quốc tế"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: devops@techcompany.vn",
+          "Tiêu đề email: [DevOps Engineer] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Data Analyst",
+        "salary": "15 - 25 triệu/tháng",
+        "location": "Quận Đống Đa, Hà Nội",
+        "experience": "1 - 2 năm phân tích dữ liệu",
+        "deadline": "31/05/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Thu thập, tổng hợp và phân tích dữ liệu từ các nguồn khác nhau",
+          "Xây dựng báo cáo, dashboard phục vụ quyết định kinh doanh",
+          "Đề xuất các giải pháp cải thiện hiệu quả hoạt động, chiến lược marketing",
+          "Phối hợp với các phòng ban để hiểu và khai thác dữ liệu đúng mục đích"
+        ],
+        "requirements": [
+          "Thành thạo Excel, SQL, ưu tiên biết Python/R",
+          "Kỹ năng trực quan hóa dữ liệu (Power BI, Tableau...)",
+          "Tư duy phân tích, logic, khả năng diễn giải kết quả rõ ràng",
+          "Có kinh nghiệm làm việc với dữ liệu lớn là lợi thế"
+        ],
+        "benefits": [
+          "Lương: 15 - 25 triệu/tháng + thưởng KPI",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Môi trường năng động, đề cao sáng tạo",
+          "Cơ hội thăng tiến lên Data Lead"
+        ],
+        "how_to_apply": [
+          "Gửi CV và Portfolio dự án (nếu có) qua email: data@analytichub.vn",
+          "Tiêu đề email: [Data Analyst] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Data Scientist",
+        "salary": "25 - 40 triệu/tháng",
+        "location": "Quận 2, TP. Hồ Chí Minh",
+        "experience": "2 - 3 năm về Machine Learning, AI",
+        "deadline": "30/07/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Nghiên cứu, phát triển mô hình Machine Learning, Deep Learning",
+          "Xử lý, phân tích dữ liệu lớn, xây dựng thuật toán dự đoán",
+          "Triển khai giải pháp AI vào hệ thống thực tế",
+          "Phối hợp với đội ngũ kỹ sư, phân tích kinh doanh để giải quyết bài toán cụ thể"
+        ],
+        "requirements": [
+          "Thành thạo Python, các thư viện ML/AI (TensorFlow, PyTorch, Scikit-learn...)",
+          "Có kiến thức về thuật toán học máy, thống kê, xử lý ngôn ngữ tự nhiên (NLP) hoặc thị giác máy tính (CV)",
+          "Kỹ năng làm việc với dữ liệu lớn, Spark/Hadoop là lợi thế",
+          "Tư duy phân tích, giải quyết vấn đề phức tạp"
+        ],
+        "benefits": [
+          "Lương: 25 - 40 triệu/tháng + thưởng dự án",
+          "Cơ hội nghiên cứu công nghệ mới, xuất bản bài báo khoa học",
+          "Tham gia BHXH, BHYT, BHTN, lương tháng 13",
+          "Môi trường R&D, trang thiết bị hiện đại"
+        ],
+        "how_to_apply": [
+          "Gửi CV và link GitHub/Kaggle (nếu có) qua email: hr@aicompany.vn",
+          "Tiêu đề email: [Data Scientist] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "UI/UX Designer",
+        "salary": "12 - 18 triệu/tháng",
+        "location": "Quận Hoàn Kiếm, Hà Nội",
+        "experience": "1 - 2 năm thiết kế UI/UX",
+        "deadline": "15/06/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Nghiên cứu hành vi người dùng, xây dựng wireframe, prototype",
+          "Thiết kế giao diện, trải nghiệm người dùng cho website/app",
+          "Phối hợp chặt chẽ với team Product, Developer để triển khai sản phẩm",
+          "Thực hiện test UX, liên tục cải tiến dựa trên feedback"
+        ],
+        "requirements": [
+          "Thành thạo Figma, Sketch, Adobe XD hoặc tương đương",
+          "Hiểu biết về quy trình thiết kế lấy người dùng làm trung tâm",
+          "Tư duy thẩm mỹ tốt, khả năng trình bày ý tưởng",
+          "Có kinh nghiệm A/B testing, phân tích dữ liệu UX là lợi thế"
+        ],
+        "benefits": [
+          "Lương: 12 - 18 triệu/tháng + thưởng dự án",
+          "Môi trường sáng tạo, trẻ trung",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Cơ hội thăng tiến lên Senior UI/UX Designer"
+        ],
+        "how_to_apply": [
+          "Gửi CV và Portfolio (UI/UX projects) qua email: design@creativehub.vn",
+          "Tiêu đề email: [UI/UX Designer] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Product Manager",
+        "salary": "20 - 35 triệu/tháng",
+        "location": "Quận 10, TP. Hồ Chí Minh",
+        "experience": "2 - 3 năm quản lý sản phẩm (Product Management)",
+        "deadline": "30/06/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Xây dựng chiến lược phát triển sản phẩm, roadmap",
+          "Nghiên cứu thị trường, thu thập phản hồi khách hàng để cải tiến tính năng",
+          "Phối hợp với team kỹ thuật, thiết kế, marketing để đưa sản phẩm ra thị trường",
+          "Theo dõi, phân tích chỉ số sản phẩm, đảm bảo KPIs và hiệu quả kinh doanh"
+        ],
+        "requirements": [
+          "Có kinh nghiệm trong phát triển phần mềm, quản lý dự án hoặc quản lý sản phẩm",
+          "Kỹ năng giao tiếp, đàm phán, giải quyết vấn đề",
+          "Tư duy phân tích, hiểu biết về UX/UI",
+          "Ưu tiên ứng viên có kinh nghiệm Agile/Scrum"
+        ],
+        "benefits": [
+          "Lương: 20 - 35 triệu/tháng + bonus theo kết quả",
+          "Tham gia BHXH, BHYT, BHTN đầy đủ",
+          "Môi trường chuyên nghiệp, nhiều dự án quy mô lớn",
+          "Cơ hội thăng tiến lên Head of Product"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: product@companyxyz.vn",
+          "Tiêu đề email: [Product Manager] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Digital Marketing Manager",
+        "salary": "20 - 40 triệu/tháng",
+        "location": "Quận 1, TP. Hồ Chí Minh",
+        "experience": "3 năm trở lên trong lĩnh vực Digital Marketing",
+        "deadline": "15/07/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Lập kế hoạch, triển khai chiến lược Digital Marketing đa kênh (SEO, SEM, Social, Email...)",
+          "Quản lý ngân sách, tối ưu ROI cho các chiến dịch quảng cáo",
+          "Xây dựng và phát triển đội ngũ Digital Marketing",
+          "Báo cáo, phân tích hiệu quả, đề xuất giải pháp cải thiện"
+        ],
+        "requirements": [
+          "Am hiểu về Google Ads, Facebook Ads, các kênh quảng cáo số",
+          "Kỹ năng phân tích dữ liệu, sử dụng Google Analytics, các công cụ đo lường",
+          "Khả năng lãnh đạo, quản lý đội nhóm",
+          "Ưu tiên ứng viên có kinh nghiệm triển khai chiến dịch lớn"
+        ],
+        "benefits": [
+          "Lương: 20 - 40 triệu/tháng + thưởng KPIs",
+          "Tham gia BHXH, BHYT, BHTN đầy đủ",
+          "Môi trường chuyên nghiệp, cơ hội học hỏi và phát triển",
+          "Du lịch, teambuilding hàng năm, lương tháng 13"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: digital@marketinghub.vn",
+          "Tiêu đề email: [Digital Marketing Manager] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "SEO Specialist",
+        "salary": "10 - 15 triệu/tháng",
+        "location": "Quận Thanh Xuân, Hà Nội",
+        "experience": "1 - 2 năm tối ưu hóa công cụ tìm kiếm (SEO)",
+        "deadline": "30/06/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Nghiên cứu từ khóa, tối ưu on-page, off-page",
+          "Phân tích đối thủ, đưa ra chiến lược cải thiện thứ hạng website",
+          "Theo dõi, đánh giá kết quả SEO qua Google Analytics, Search Console",
+          "Viết bài chuẩn SEO, đề xuất nội dung phù hợp"
+        ],
+        "requirements": [
+          "Thành thạo kỹ thuật SEO, am hiểu các thuật toán Google",
+          "Có kinh nghiệm xây dựng backlink, SEO content",
+          "Kỹ năng phân tích, xử lý dữ liệu SEO",
+          "Ưu tiên ứng viên có case study, thành tích SEO cụ thể"
+        ],
+        "benefits": [
+          "Lương: 10 - 15 triệu/tháng + thưởng KPI",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Môi trường trẻ trung, được đào tạo nâng cao",
+          "Cơ hội thăng tiến lên Senior SEO hoặc SEO Team Lead"
+        ],
+        "how_to_apply": [
+          "Gửi CV + portfolio dự án SEO qua email: seo@marketingagency.vn",
+          "Tiêu đề email: [SEO Specialist] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Social Media Executive",
+        "salary": "8 - 12 triệu/tháng",
+        "location": "Quận 7, TP. Hồ Chí Minh",
+        "experience": "6 tháng - 1 năm quản lý kênh mạng xã hội",
+        "deadline": "15/06/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Quản lý, vận hành các kênh mạng xã hội (Facebook, Instagram, TikTok...)",
+          "Lên kế hoạch, sáng tạo nội dung phù hợp với từng kênh",
+          "Tương tác với khách hàng, xử lý phản hồi, tăng độ nhận diện thương hiệu",
+          "Theo dõi, phân tích và báo cáo hiệu quả chiến dịch social"
+        ],
+        "requirements": [
+          "Có kiến thức về marketing online, xu hướng social media",
+          "Kỹ năng viết nội dung sáng tạo, bắt trend nhanh",
+          "Biết sử dụng công cụ thiết kế cơ bản (Canva, Photoshop...)",
+          "Ưu tiên ứng viên có kinh nghiệm chạy quảng cáo Facebook, TikTok"
+        ],
+        "benefits": [
+          "Lương: 8 - 12 triệu/tháng + thưởng KPI",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Môi trường làm việc trẻ trung, năng động",
+          "Cơ hội học hỏi, phát triển thành Social Media Manager"
+        ],
+        "how_to_apply": [
+          "Gửi CV và link các kênh Social đã quản lý (nếu có) qua email: social@brandhub.vn",
+          "Tiêu đề email: [Social Media Executive] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Performance Marketing Specialist",
+        "salary": "12 - 18 triệu/tháng",
+        "location": "Quận Bình Tân, TP. Hồ Chí Minh",
+        "experience": "1 - 2 năm chạy quảng cáo chuyển đổi (Google, Facebook...)",
+        "deadline": "20/07/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Lên kế hoạch và thực thi các chiến dịch quảng cáo chuyển đổi trên Google Ads, Facebook Ads...",
+          "Theo dõi, tối ưu các chỉ số CPA, CPL, ROAS...",
+          "Thiết lập tracking, remarketing, phân khúc đối tượng mục tiêu",
+          "Phân tích dữ liệu, đề xuất cải thiện chiến dịch và ngân sách"
+        ],
+        "requirements": [
+          "Hiểu biết sâu về các nền tảng quảng cáo, pixel, conversion tracking",
+          "Kỹ năng Excel, Google Analytics tốt",
+          "Tư duy phân tích số liệu, tối ưu ROI",
+          "Ưu tiên ứng viên có kinh nghiệm chạy ngân sách lớn"
+        ],
+        "benefits": [
+          "Lương: 12 - 18 triệu/tháng + thưởng theo KPI",
+          "Môi trường chuyên nghiệp, hỗ trợ công cụ đo lường",
+          "BHXH, BHYT, BHTN đầy đủ",
+          "Cơ hội trở thành Team Lead Performance"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: performance@adcompany.vn",
+          "Tiêu đề email: [Performance Marketing Specialist] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Content Marketing Specialist",
+        "salary": "10 - 15 triệu/tháng",
+        "location": "Quận Hà Đông, Hà Nội",
+        "experience": "1 - 2 năm viết và quản lý nội dung marketing",
+        "deadline": "30/06/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Xây dựng kế hoạch nội dung cho blog, website, mạng xã hội",
+          "Viết bài, biên tập và tối ưu nội dung chuẩn SEO",
+          "Phối hợp với thiết kế, video editor để sản xuất nội dung đa phương tiện",
+          "Theo dõi, đánh giá hiệu quả content, đề xuất ý tưởng mới"
+        ],
+        "requirements": [
+          "Kỹ năng viết, biên tập, tư duy sáng tạo",
+          "Am hiểu cơ bản về SEO, content marketing",
+          "Khả năng nghiên cứu, phân tích nhu cầu khách hàng",
+          "Ưu tiên ứng viên có kinh nghiệm lên kịch bản video, podcast"
+        ],
+        "benefits": [
+          "Lương: 10 - 15 triệu/tháng + thưởng hiệu quả",
+          "Môi trường làm việc trẻ trung, khuyến khích sáng tạo",
+          "BHXH, BHYT, BHTN đầy đủ",
+          "Cơ hội phát triển lên Content Team Lead"
+        ],
+        "how_to_apply": [
+          "Gửi CV và một số bài viết mẫu qua email: content@marketingdigital.vn",
+          "Tiêu đề email: [Content Marketing Specialist] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Marketing Automation Specialist",
+        "salary": "12 - 20 triệu/tháng",
+        "location": "Quận Cầu Giấy, Hà Nội",
+        "experience": "2 năm trong lĩnh vực Marketing Automation, CRM",
+        "deadline": "15/07/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Thiết kế, triển khai và tối ưu quy trình marketing automation (email, SMS, chatbot...)",
+          "Phân khúc khách hàng, tạo chiến dịch nuôi dưỡng leads, upsell, cross-sell",
+          "Quản lý và đồng bộ dữ liệu trên các nền tảng CRM",
+          "Phân tích và báo cáo hiệu quả, đề xuất cải thiện quy trình"
+        ],
+        "requirements": [
+          "Thành thạo các công cụ marketing automation (HubSpot, Marketo, ActiveCampaign...)",
+          "Kiến thức về quy trình bán hàng, phễu khách hàng",
+          "Kỹ năng phân tích dữ liệu, đo lường KPI marketing",
+          "Tư duy logic, chi tiết, cẩn thận"
+        ],
+        "benefits": [
+          "Lương: 12 - 20 triệu/tháng + thưởng",
+          "Môi trường làm việc hiện đại, công nghệ cập nhật",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Cơ hội học hỏi, tham gia hội thảo chuyên ngành"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: automation@digitalcompany.vn",
+          "Tiêu đề email: [Marketing Automation Specialist] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Growth Hacker",
+        "salary": "15 - 30 triệu/tháng",
+        "location": "Quận 2, TP. Hồ Chí Minh",
+        "experience": "2 năm về tăng trưởng người dùng/sản phẩm",
+        "deadline": "31/07/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Xây dựng và thực hiện chiến lược tăng trưởng người dùng, doanh thu",
+          "Nghiên cứu, thử nghiệm các kênh marketing mới, công cụ mới",
+          "Phân tích dữ liệu, tối ưu chi phí, tăng tỉ lệ chuyển đổi",
+          "Phối hợp chặt chẽ với Product, Marketing, Tech để triển khai A/B testing"
+        ],
+        "requirements": [
+          "Hiểu biết đa dạng kênh marketing, phân tích dữ liệu",
+          "Kỹ năng tư duy đột phá, dám thử - dám sai",
+          "Am hiểu mô hình tăng trưởng, phễu AARRR (Acquisition, Activation, Retention, Revenue, Referral)",
+          "Kỹ năng lập trình cơ bản hoặc sử dụng công cụ automation là lợi thế"
+        ],
+        "benefits": [
+          "Lương: 15 - 30 triệu/tháng + thưởng theo kết quả",
+          "Tham gia BHXH, BHYT, BHTN đầy đủ",
+          "Môi trường startup, khuyến khích sáng tạo, đổi mới",
+          "Cơ hội thăng tiến, phát triển kỹ năng toàn diện"
+        ],
+        "how_to_apply": [
+          "Gửi CV và case study tăng trưởng (nếu có) qua email: growth@startuphub.vn",
+          "Tiêu đề email: [Growth Hacker] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Email Marketing Specialist",
+        "salary": "8 - 12 triệu/tháng",
+        "location": "Quận Hoàn Kiếm, Hà Nội",
+        "experience": "1 năm trong lĩnh vực email marketing",
+        "deadline": "30/06/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Thiết kế, triển khai các chiến dịch email marketing",
+          "Xây dựng kịch bản, phân khúc danh sách email, cá nhân hóa nội dung",
+          "Theo dõi, phân tích tỷ lệ mở, click, chuyển đổi...",
+          "Phối hợp với team nội dung, thiết kế để tối ưu hiệu quả"
+        ],
+        "requirements": [
+          "Sử dụng thành thạo các nền tảng email marketing (MailChimp, GetResponse...)",
+          "Kỹ năng viết nội dung, thiết kế template email cơ bản",
+          "Am hiểu về quy định chống spam, quản lý dữ liệu khách hàng",
+          "Ưu tiên có kinh nghiệm A/B testing, automation email"
+        ],
+        "benefits": [
+          "Lương: 8 - 12 triệu/tháng + thưởng KPI",
+          "Môi trường trẻ trung, có lộ trình thăng tiến",
+          "BHXH, BHYT, BHTN đầy đủ",
+          "Được đào tạo nâng cao về digital marketing"
+        ],
+        "how_to_apply": [
+          "Gửi CV và ví dụ chiến dịch email đã triển khai (nếu có) qua email: email@marketingfirm.vn",
+          "Tiêu đề email: [Email Marketing Specialist] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "E-commerce Manager",
+        "salary": "20 - 35 triệu/tháng",
+        "location": "Quận Gò Vấp, TP. Hồ Chí Minh",
+        "experience": "3 năm quản lý sàn TMĐT hoặc kênh bán hàng online",
+        "deadline": "31/07/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Quản lý, vận hành gian hàng trên các sàn TMĐT (Shopee, Lazada, Tiki...), website bán hàng",
+          "Lên kế hoạch marketing, khuyến mãi, tối ưu trải nghiệm mua sắm",
+          "Theo dõi doanh số, tối ưu chi phí vận chuyển, quảng cáo",
+          "Xây dựng đội ngũ E-commerce, làm việc với nhà cung cấp, đối tác vận chuyển"
+        ],
+        "requirements": [
+          "Am hiểu về các sàn TMĐT, quy trình vận hành kho, giao nhận",
+          "Kỹ năng phân tích dữ liệu bán hàng, lập báo cáo doanh số",
+          "Kinh nghiệm quản lý đội nhóm, kỹ năng đàm phán",
+          "Ưu tiên ứng viên có kinh nghiệm triển khai omnichannel"
+        ],
+        "benefits": [
+          "Lương: 20 - 35 triệu/tháng + thưởng doanh số",
+          "Môi trường chuyên nghiệp, cơ hội phát triển",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Thưởng lễ, tết, du lịch công ty"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: ecommerce@onlinestore.vn",
+          "Tiêu đề email: [E-commerce Manager] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Chatbot Developer",
+        "salary": "12 - 20 triệu/tháng",
+        "location": "Quận Phú Nhuận, TP. Hồ Chí Minh",
+        "experience": "1 - 2 năm phát triển chatbot, automation tools",
+        "deadline": "15/07/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Xây dựng và phát triển chatbot trên các nền tảng (Messenger, Zalo, Website...)",
+          "Tích hợp chatbot với hệ thống CRM, xử lý luồng hội thoại",
+          "Tối ưu trải nghiệm người dùng, giải quyết các lỗi logic hội thoại",
+          "Nghiên cứu, ứng dụng NLP (Natural Language Processing) nếu cần"
+        ],
+        "requirements": [
+          "Kỹ năng lập trình (Python, Node.js...), am hiểu RESTful API",
+          "Kinh nghiệm sử dụng các nền tảng chatbot như ManyChat, Dialogflow...",
+          "Tư duy logic, khả năng phân tích yêu cầu và thiết kế luồng chatbot",
+          "Ưu tiên ứng viên có kinh nghiệm AI chatbot"
+        ],
+        "benefits": [
+          "Lương: 12 - 20 triệu/tháng + thưởng",
+          "Môi trường startup, công nghệ hiện đại",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Cơ hội nghiên cứu sâu NLP, tích hợp AI"
+        ],
+        "how_to_apply": [
+          "Gửi CV và demo chatbot (nếu có) qua email: hr@automationhub.vn",
+          "Tiêu đề email: [Chatbot Developer] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "Cloud Architect",
+        "salary": "30 - 50 triệu/tháng",
+        "location": "Quận Tân Bình, TP. Hồ Chí Minh",
+        "experience": "3 năm trở lên về kiến trúc hạ tầng đám mây",
+        "deadline": "31/08/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Thiết kế kiến trúc hệ thống trên AWS, Azure hoặc GCP",
+          "Tối ưu hiệu suất, chi phí, bảo mật cho hạ tầng đám mây",
+          "Xây dựng giải pháp HA (High Availability), DR (Disaster Recovery)",
+          "Hỗ trợ, tư vấn cho các team DevOps, phát triển trong việc triển khai"
+        ],
+        "requirements": [
+          "Chứng chỉ Cloud (AWS Solutions Architect, Azure Architect, GCP Architect) là lợi thế lớn",
+          "Kinh nghiệm với container, microservices, serverless",
+          "Kỹ năng phân tích, xử lý sự cố, thiết kế hệ thống lớn",
+          "Khả năng giao tiếp, tư vấn cho đối tác nội bộ và khách hàng"
+        ],
+        "benefits": [
+          "Lương: 30 - 50 triệu/tháng + thưởng dự án",
+          "Làm việc với khách hàng quốc tế, công nghệ tiên tiến",
+          "Tham gia BHXH, BHYT, BHTN",
+          "Cơ hội trở thành Chief Cloud Architect"
+        ],
+        "how_to_apply": [
+          "Gửi CV qua email: cloud@techcompany.vn",
+          "Tiêu đề email: [Cloud Architect] - [Họ tên]"
+        ]
+      },
+      {
+        "title": "AI Engineer",
+        "salary": "25 - 45 triệu/tháng",
+        "location": "Quận Hoàng Mai, Hà Nội",
+        "experience": "2 - 3 năm về AI/Machine Learning",
+        "deadline": "30/09/2025",
+        "apply_link": "#",
+        "job_description": [
+          "Xây dựng, huấn luyện mô hình AI, tập trung vào xử lý hình ảnh, ngôn ngữ hoặc dữ liệu thời gian thực",
+          "Tích hợp mô hình AI vào hệ thống sản phẩm, đảm bảo hiệu năng",
+          "Tối ưu mô hình, triển khai lên môi trường production (Docker, Kubernetes...)",
+          "Phối hợp với Data Engineer, DevOps để xây dựng pipeline dữ liệu"
+        ],
+        "requirements": [
+          "Thành thạo Python, các thư viện AI (TensorFlow, PyTorch...)",
+          "Kỹ năng thiết kế mô hình, đánh giá, tối ưu hyperparameters",
+          "Kinh nghiệm triển khai mô hình AI ở quy mô lớn",
+          "Ưu tiên ứng viên có công bố nghiên cứu hoặc dự án AI thực tế"
+        ],
+        "benefits": [
+          "Lương: 25 - 45 triệu/tháng + thưởng",
+          "Môi trường R&D, cơ hội thử nghiệm công nghệ mới",
+          "BHXH, BHYT, BHTN đầy đủ, lương tháng 13",
+          "Được tham gia các khóa học, hội thảo AI trong và ngoài nước"
+        ],
+        "how_to_apply": [
+          "Gửi CV và link GitHub/Kaggle (nếu có) qua email: ai@innovationlab.vn",
+          "Tiêu đề email: [AI Engineer] - [Họ tên]"
+        ]
+      }
+    ]
+  }
+  
